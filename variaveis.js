@@ -4,17 +4,12 @@ console.log(nome)
 let idade = '26 anos'
 console.log(idade)
 
-const cidade = 'Blumenau'
-console.log(cidade)
+const ano = 'nascido em 2000'
+console.log(ano)
 
-let carro = {
-    nome: 'Golf GTI',
-    ano: '2020',
-    cores: [
-        'Preto',
-        'Branco',
-        'vermelho',
-    ]}
-
+var carro = {
+    carro: 'Golf Gti',
+    motor: '2.0',
+    cor: 'preto',
+    cor2: 'cinza'}
 console.log(carro)
-
