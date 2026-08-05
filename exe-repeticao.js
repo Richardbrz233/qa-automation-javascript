@@ -20,5 +20,4 @@ cores.forEach ((cor, indice) => {
    console.log('Execução de cor', indice +1)
    console.log('cor:' + cor)
    console.log ('______________')
-
 })
